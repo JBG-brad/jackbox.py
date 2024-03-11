@@ -20,7 +20,7 @@ import time
 import aiohttp
 
 
-_SV_URI = "http://ecast-qa.jackboxgames.com/room/{0}"
+_SV_URI = "https://ecast-qa.jackboxgames.com/room/{0}"
 _ID_URI = "https://{0}:38203/socket.io/1?t={1}"
 
 
